@@ -3,7 +3,7 @@ Module 17
 
 
 
-
+Files:  [credit_risk_ensemble.ipynb](credit_risk_ensemble.ipynb)  [credit_risk_resampling.ipynb](credit_risk_resampling.ipynb)  [credit_risk_ensemble.html](Resources/credit_risk_ensemble.html)  [credit_risk_resampling.html](Resources/credit_risk_resampling.html) 
 
 
 
